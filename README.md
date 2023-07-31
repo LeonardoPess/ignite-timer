@@ -26,4 +26,4 @@
   <img src="ignite-timer.png">
 </p>
 
-<p align="center">Nesse projeto criamos um timer onde definimos um nome para ele, junto ao estados("em andamento", "interrompido" e "concluído"), fazemos a listagem e a persistência de dados em local storage. Conheci a biblioteca "date-fns" para lidar com datas e horários, utilizamos o "React Hook Form" para lidar com o formulário e utilizamos o hook useReducer do React para centralizar as alterações em um estado um pouco complexo</p>
+<p align="center">Nesse projeto criamos um timer onde definimos um nome para ele, junto ao estados("em andamento", "interrompido" e "concluído"), fazemos a listagem e a persistência de dados em local storage. Conheci a biblioteca "date-fns" para lidar com datas e horários, utilizamos o "React Hook Form" para lidar com o formulário, o hook useReducer do React para centralizar as alterações de um estado um pouco complexo e fizemos a estilização com o styled-components</p>
